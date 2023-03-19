@@ -18,7 +18,7 @@ export default function Footer() {
           rel="noreferrer"
         >
           {""}
-          open-sourced on GitHub
+          open-sourced on GitHub.
         </a>
       </span>
     </div>
