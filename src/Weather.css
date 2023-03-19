@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(222, 209, 245);
+  }
+  .Weather {
+    padding: 20px;
+    border: 1px solid rgb(168, 166, 166);
+    border-radius: 5px;
+    margin: 100px auto 25px auto;
+    background-color: whitesmoke;
+    max-width: 700px;
+    box-shadow: 0px -2px 20px rgba(0, 0, 0, 0.4);
+  }
+  
+  .Weather .dataset {
+    margin-bottom: 40px;
+    margin-left: 20px;
+    font-size: 20px;
+  }
+  
+  .Weather .dataset h1 {
+    font-weight: 600;
+    font-size: 60px;
+  }
+  
+  .Weather .weather-temperature img {
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+  }
+  .Weather .extra-data {
+    font-size: 20px;
+  }
+  
+  .Weather .weather-temperature strong {
+    color: black;
+    font-size: 70px;
+    line-height: 1;
+    font-weight: 500;
+    margin-left: 20px;
+  }
+  
+  .Weather .weather-temperature .units {
+    position: relative;
+    font-size: 18px;
+    top: -38px;
+  }
+  .Weather a {
+    text-decoration: none;
+  }
+  .Weather ul li {
+    list-style: none;
+  }
+  
